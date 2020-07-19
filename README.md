@@ -1,5 +1,5 @@
 # learning-algorithms
-This repository contains the implementations of basic, essential and advanced algorithms and data structures in:
+This repository contains concepts and the implementations of basic, essential and advanced algorithms and data structures in:
 - C
 - C++
 - C#
@@ -7,3 +7,6 @@ This repository contains the implementations of basic, essential and advanced al
 - Javascript
 
 
+# Audience 
+the study of algorithms and data structures is fundamental to any computer science
+students, programmers and software practitioners.
